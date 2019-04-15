@@ -7,7 +7,7 @@
 
 ### 开发环境
 
-* TypeScript
+* TypeScript(VS Code)
 * Webpack
 * Jest
 * Prettier
@@ -27,10 +27,11 @@
 
 ### 内部基础库和工具
 
-* [Jasmin UI](https://github.com/jimengio/jasmin-ui)
-* [Mescal UI](https://github.com/jimengio/mescal-ui)
+* [Jasmin UI](https://github.com/jimengio/jasmin-ui) - 桌面端 UI
+* [Mescal UI](https://github.com/jimengio/mescal-ui) - 采集端 UI
 * [Rex](https://github.com/jimengio/rex) - 数据层方案, 替代 Redux
 * [ruled-router](https://github.com/jimengio/ruled-router) - 定制的深度嵌套路由方案
+* [Jimo Icons](https://github.com/jimengio/jimo-icons/) - 图标库
 
 项目基础选型大致可以看 [ts-workflow](https://github.com/jimengio/ts-workflow).
 
@@ -38,3 +39,4 @@
 
 * react-router
 * mobx, mobx-state-tree
+* SASS

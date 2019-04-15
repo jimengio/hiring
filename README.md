@@ -12,11 +12,11 @@
 
 ### 职位要求
 
-* 熟悉 React 生态，有 React 开发经验，了解 Webpack、antd、React Router、Mobx 等方案
+* 熟悉 React 生态，有 React 开发经验，了解 Webpack、antd、Redux 等方案
 * 有扎实的 JS、CSS 基础，掌握 JS 原型链，上下文，闭包等机制。掌握 CSS 布局，重排重绘，渲染及动画等机制
 * 了解主流 MVC 及 MVVM 框架思想，具备模块化编程思路，能编写可读可维护可测试的前端代码
-* 掌握 CSS3 及 ES6 的新特性，掌握 Sass、Less、TypeScript、CoffeeScript 等工具
-* 熟悉 MacOS/Linux 开发环境，熟练使用 Git、VSCode
+* 掌握 CSS3 及 ES6 的新特性，掌握 TypeScript, Webpack 等工具
+* 熟悉 MacOS/Linux 开发环境，熟练使用 Git、VS Code
 * 熟悉 HTTP 协议和 Web 安全
 * 有一定的英文技术文档阅读能力
 * 善于学习、思考、总结，能独立分析和解决问题，责任心强，具备良好的团队合作精神和抗压能力，要有创业的激情和坚定的信念
@@ -25,7 +25,7 @@
 
 * 熟悉前端性能优化，熟悉移动端开发
 * 熟悉 ECharts、Threejs 等技术
-* 熟悉一门后端开发语言或数据库（例如：Golang、Python、Node.js、C#、MongoDB、MySQL、PostgreSQL 等）
+* 熟悉一门后端开发语言或数据库（例如：Golang、Python、Node.js、Clojure、C#、MongoDB、MySQL、PostgreSQL 等）
 * 对前端单测、集成测试，有一定的了解及应用
 
 其他我们公司正在使用的技术：Golang、PostgreSQL、Kubernetes
@@ -41,7 +41,7 @@
 * 优厚的员工福利：节日福利、带薪休假、生日福利、春节早放晚回（避开回乡高峰）
 * 丰富多彩的员工活动：员工聚餐、旅游拓展、每周组织集体运动项目
 * 轻松愉悦的工作环境：吃着公司提供的零食听着歌、打打 PS、看看电影、养养花，在紧张的工作中也能更好的放松自我
-* 最后一条最特别！最闪光！不是谁都能做到！**那就是与 Gopher China 创始人共事，接受其亲自指导！！大牛云集的办公环境！！！花钱也买不到的专业培训！！**
+* 最后一条最特别！最闪光！不是谁都能做到！**那就是与 Gopher China 创始人共事，接受其亲自指导！
 
 ### 联系方式
 
