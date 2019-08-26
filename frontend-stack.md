@@ -29,6 +29,7 @@
 
 * [Jasmin UI](https://github.com/jimengio/jasmin-ui) - 桌面端 UI
 * [Mescal UI](https://github.com/jimengio/mescal-ui) - 采集端 UI
+* [Meson Form](https://github.com/jimengio/meson-form) - 基于 Immer 定制的 Form 方案
 * [Rex](https://github.com/jimengio/rex) - 数据层方案, 替代 Redux
 * [ruled-router](https://github.com/jimengio/ruled-router) - 定制的深度嵌套路由方案
 * [Jimo Icons](https://github.com/jimengio/jimo-icons/) - 图标库
@@ -37,6 +38,6 @@
 
 ### 废弃中的技术
 
-* react-router
-* mobx, mobx-state-tree
-* SASS
+* mobx, mobx-state-tree, Redux(改用 Hooks)
+* SASS(改用 Emotion)
+* antd form(改用 meson-form)
